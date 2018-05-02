@@ -1,4 +1,4 @@
-[
+export const moviesList = [
   {
     id: 1,
     title: "The Shawshank Redemption",
@@ -71,7 +71,7 @@
       "Maggie Gyllenhaal",
       "Gary Oldman"
     ]
-  }, {
+  }, 
   {
     id: 5,
     title: "Schindler's List",
